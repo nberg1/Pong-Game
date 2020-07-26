@@ -1,7 +1,7 @@
 --[[
 
-pong-1
-day-1 update
+pong-2
+day-0 update
 
 author: Nicole
 
